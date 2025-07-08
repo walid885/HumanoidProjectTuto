@@ -1,1 +1,3 @@
 initial setup
+for this part of the process , run the script , intitled KaggleSetup.py 
+it gets the system up and running for this part. 
